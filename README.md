@@ -32,7 +32,7 @@ This repository contains certificates earned by DEWTON KIPROP for completing var
 - **cybersecurity_training_certificate.pdf**: Certificate document for Cybersecurity Training at CYBERPRO Africa.
 - **mitre_attack_certificate.pdf**: Certificate document for MITRE ATT&CK Training.
 
-## About [Your Name]
+## About
 
 Dewton is a cyber security enthusiast, information security and forensics expert with a passion for technology, cybersecurity, and threat intelligence. These certificates represent dedication to professional development and expertise in networking, programming, cybersecurity, and threat intelligence domains.
 
